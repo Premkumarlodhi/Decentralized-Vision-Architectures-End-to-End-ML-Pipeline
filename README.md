@@ -1,7 +1,6 @@
 # Decentralized Vision Architectures — End-to-End ML Pipeline
 
 > **Summer of Code (SoC) Project**
-> Mentored project under the **Analytics Club, IIT Bombay**
 > [GitHub Repository](https://github.com/Premkumarlodhi/Decentralized-Vision-Architectures-End-to-End-ML-Pipeline)
 
 ---
