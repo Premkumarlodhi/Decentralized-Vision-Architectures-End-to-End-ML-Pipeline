@@ -10,6 +10,7 @@ env/
 
 # Data and Results (Crucial for this project)
 plantvillage/
+cache/
 results/
 *.csv
 *.png
